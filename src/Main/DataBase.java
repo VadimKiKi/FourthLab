@@ -5,7 +5,7 @@ import java.util.*;
 /**
  * Класс база данных
  * @author Vadim Taratonov
- * @version 1.0
+ * @version 1.1
  */
 public class DataBase {
     /**
